@@ -1,7 +1,7 @@
 # tiktok-sign-server
   
 ## Discord: <a href="https://discord.gg/y94gBwdq9Q">https://discord.gg/y94gBwdq9Q</a>
-
+ 
 <b>Compatibility with:</b>
 - **Java** [TikTokLiveJava](https://github.com/jwdeveloper/TikTokLiveJava) by [@jwdeveloper](https://github.com/jwdeveloper)
 - **Node** [TikTok-Live-Connector](https://github.com/isaackogan/TikTok-Live-Connector) by [@zerodytrash](https://github.com/zerodytrash)
