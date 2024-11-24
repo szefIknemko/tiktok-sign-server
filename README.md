@@ -1,5 +1,5 @@
 # tiktok sign server
-      
+       
 ## Discord: <a href="https://discord.gg/y94gBwdq9Q">https://discord.gg/y94gBwdq9Q</a>
  
 <b>Compatibility with:</b>
