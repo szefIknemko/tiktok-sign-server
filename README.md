@@ -10,12 +10,12 @@
 - **C#** [TikTokLiveSharp](https://github.com/frankvHoof93/TikTokLiveSharp) by [@frankvHoof93](https://github.com/frankvHoof93)
 - **Rust** [TikTokLiveRust](https://github.com/jwdeveloper/TikTokLiveRust) by [@ZmoleCristian](https://github.com/jwdeveloper/TikTokLiveRust)
  
-<span style="font-size:1px">tiktok live java</span>
-<span style="font-size:1px">tiktok live connector</span>
-<span style="font-size:1px">tiktok live</span>
-<span style="font-size:1px">go tiktok live</span>
-<span style="font-size:1px">tiktok live rust</span>
-<span style="font-size:1px">tiktok mstoken</span>
-<span style="font-size:1px">tiktok x-gnarly</span>
-<span style="font-size:1px">tiktok x-bogus</span>
-<span style="font-size:1px">eulerstream</span>
+<sub>tiktok live java</sub>
+<sub>tiktok live connector</sub>
+<sub>tiktok live</sub>
+<sub>go tiktok live</sub>
+<sub>tiktok live rust</sub>
+<sub>tiktok mstoken</sub>
+<sub>tiktok x-gnarly</sub>
+<sub>tiktok x-bogus</sub>
+<sub>eulerstream alternative</sub>
